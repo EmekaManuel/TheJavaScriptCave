@@ -1,6 +1,6 @@
 # The Javascript Cave
 
-Welcome to **JavaScript Cave**, your go-to resource for mastering the intricacies of JavaScript, Data Structures, and Algorithms. This repository is designed to provide a comprehensive guide for developers of all levels, offering in-depth explanations, hands-on examples, and a curated set of interview questions to sharpen your skills.
+Welcome to **JavaScript Cave**, your go-to resource for mastering the intricacies of JavaScript, Data Structures, and Algorithms. This repository is designed to provide a comprehensive guide for developers of all levels, offering in-depth explanations, hands-on code examples, and a curated set of interview questions to sharpen your skills.
 
 ## Table of Contents
 
@@ -13,17 +13,15 @@ Welcome to **JavaScript Cave**, your go-to resource for mastering the intricacie
 
 ## About
 
-**JavaScript Mastery** is a dedicated space where you can delve into essential JavaScript concepts, explore efficient Data Structures, and tackle Algorithms head-on. Whether you are a beginner looking to build a solid foundation or an experienced developer aiming to refine your skills, this repository is your one-stop destination.
+**The Javascript Cave** is a dedicated space where you can delve into essential JavaScript concepts, explore efficient Data Structures, and tackle Algorithms head-on. Whether you are a beginner looking to build a solid foundation or an experienced developer aiming to refine your skills, this repository is your one-stop destination.
 
 ## Key Features
 
 - **Comprehensive Documentation:** Dive deep into well-documented concepts, ensuring a clear understanding of JavaScript fundamentals, Data Structures, and Algorithms.
 
-- **Hands-On Examples:** Learn by doing with practical examples that illustrate real-world applications of the covered concepts.
+- **Hands-On-Code-Omplementations:** Learn by doing with practical examples that illustrate real-world applications of the covered concepts.
 
 - **Interview Questions:** Ace technical interviews with a carefully curated set of interview questions designed to challenge and enhance your problem-solving skills.
-
-- **Organized Learning Paths:** Follow structured learning paths to progressively master JavaScript, from basic syntax to advanced topics.
 
 ## Getting Started
 
@@ -31,9 +29,15 @@ To get started with **JavaScript Cave**, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/javascript-mastery.git
+   git clone https://github.com/your-username/TheJavaScriptCave.git
+   ```
+2. Navigate to js-concepts folder
+   ```bash
    cd js-concepts
-   node <filename.js> to run the code
+   ```
+3. Run the file
+    ```bash
+   node <filename.js>
    ```
 ## Contributing
 
@@ -43,11 +47,17 @@ We welcome contributions from the community! If you're interested in making this
 
 2. **Clone the Repository:** Clone the forked repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/javascript-mastery.git
-git checkout -b feature/new-feature
-git commit -m "Add a brief summary of your changes"
-git push origin feature/new-feature
-```
+   git clone https://github.com/your-username/TheJavaScriptCave.git
+   ```
+   ```bash
+   git checkout -b feature/new-feature
+   ```
+   ```bash
+   git commit -m "Add a brief summary of your changes"
+   ```
+   ```bash
+   git push origin feature/new-feature
+   ```
 
    
 # Code of Conduct
